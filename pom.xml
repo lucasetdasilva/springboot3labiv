@@ -14,6 +14,8 @@
 	<name>springboot3labiv</name>
 	<description>Project for Spring Boot 3</description>
 	<properties>
+		<sonar.organization>lucasetdasilva</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<java.version>17</java.version>
 	</properties>
 	<dependencies>
